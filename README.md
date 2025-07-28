@@ -1,1 +1,1 @@
-# letterboxd-tmbd
+# letterboxd-radarr
